@@ -1,7 +1,4 @@
-## 📋 Complete README.md (Copy This Whole Thing)
-
-```markdown
-# 🔍 Network Packet Sniffer
+ 🔍 Network Packet Sniffer
 
 ## A Python-based Network Traffic Analyzer
 
